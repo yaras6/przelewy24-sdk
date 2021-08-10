@@ -187,7 +187,4 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
-/.vs/RoomBooking
-
-
-App.Web/App_Data/*
+/.vs
